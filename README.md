@@ -50,13 +50,12 @@ weighted avg      0.900     0.750     0.782        24
 FEATURE IMPORTANCE:
 
 Q1_sec: +0.084
+
 Q2_sec: +0.482
 
 ==================================================
 
 Monaco GP 2025 Qualifying Predictions:
-
-==================================================
 
 Position Driver Team Predicted Time
 
