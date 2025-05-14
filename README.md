@@ -34,6 +34,7 @@ MODEL FIT STATUS:
 ✓ EXCELLENT FIT
 
 ==================================================
+
 F1 QUALIFYING PREDICTION MODEL ACCURACY
 
              precision    recall  f1-score   support
@@ -47,20 +48,28 @@ weighted avg      0.900     0.750     0.782        24
 
 
 FEATURE IMPORTANCE:
+
 Q1_sec: +0.084
 Q2_sec: +0.482
 
 ==================================================
+
 Monaco GP 2025 Qualifying Predictions:
+
 ==================================================
 
 Position Driver Team Predicted Time
 
 ===========================================================================
+
 Position  Driver              Team                     Predicted Time
+
 ---------------------------------------------------------------------------
+
 1         Max Verstappen      Red Bull Racing          70.502s
+
 2         Lewis Hamilton      Ferrari                  70.705s
+
 3         Lando Norris        McLaren                  70.819s
 
 
