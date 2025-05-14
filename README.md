@@ -90,6 +90,8 @@ Position Driver Team Predicted Time
 pip install fastf1 pandas numpy matplotlib seaborn scikit-learn
 ```
 
-Contact
-Developed by KhushilDiyora
+Contact,
+
+Developed by KhushilDiyora.
+
 For suggestions or questions, feel free to open an issue or contribute.
