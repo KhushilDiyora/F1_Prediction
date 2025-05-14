@@ -37,14 +37,17 @@ MODEL FIT STATUS:
 
 F1 QUALIFYING PREDICTION MODEL ACCURACY
 
-             precision    recall  f1-score   support
+                     precision    recall    f1-score   support
 
-   Missed Q3      0.400     1.000     0.571         4
-     Made Q3      1.000     0.700     0.824        20
+       Missed Q3      0.400        1.000     0.571        04
 
-    accuracy                          0.750        24
-   macro avg      0.700     0.850     0.697        24
-weighted avg      0.900     0.750     0.782        24
+         Made Q3      1.000        0.700     0.824        20
+
+        accuracy                             0.750        24
+    
+       macro avg      0.700        0.850     0.697        24
+
+    weighted avg      0.900        0.750     0.782        24
 
 
 FEATURE IMPORTANCE:
