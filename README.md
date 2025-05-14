@@ -64,15 +64,15 @@ Position Driver Team Predicted Time
 
 ===========================================================================
 
-Position  Driver              Team                     Predicted Time
+    Position  Driver              Team                     Predicted Time
 
 ---------------------------------------------------------------------------
 
-1         Max Verstappen      Red Bull Racing          70.502s
+    1         Max Verstappen      Red Bull Racing          70.502s
 
-2         Lewis Hamilton      Ferrari                  70.705s
+    2         Lewis Hamilton      Ferrari                  70.705s
 
-3         Lando Norris        McLaren                  70.819s
+    3         Lando Norris        McLaren                  70.819s
 
 
 ## 🔧 Installation & Setup
